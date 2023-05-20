@@ -6,10 +6,8 @@
     transition: box-shadow 0.6s ease-in-out;
   }
   
-  .nav-link:hover {
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
-  }
   
   .active {
     color: green;
+    transition:0.9s;
   }
